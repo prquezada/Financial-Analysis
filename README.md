@@ -17,6 +17,6 @@ Este proyecto es una demostración de las habilidades adquiridas en el capítulo
 ## Cómo Ejecutar el Código
 
 1. Clona este repositorio:
-    git clone [<URL_DEL_REPOSITORIO>](https://github.com/prquezada/Financial-Analysis.git)
-2. Instala las dependencias necesarias:
+    git clone [<https://github.com/prquezada/Financial-Analysis.git>]
+3. Instala las dependencias necesarias:
     pip install -r requirements.txt
